@@ -14,7 +14,7 @@ from telethon.tl.types import DocumentAttributeVideo
 from ethon.pyfunc import video_metadata
 from ethon.telefunc import fast_upload, fast_download, force_sub
 
-from main.plugins.helpers import get_link, join, screenshot
+from ContentBot.Modules.helper import get_link, join, screenshot
 
 ft = f"To use this bot you've to join @{fs}."
 
