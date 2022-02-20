@@ -1,3 +1,6 @@
+# Powered By TeamIndia 
+# © @PiroXPower | @FriDayOp
+
 import math
 import os
 import time
